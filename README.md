@@ -1,2 +1,1 @@
-# Belajar_java_BackEnd
-repo khusus belajar
+# REPO KHUSUS UNTUK BELAJAR
