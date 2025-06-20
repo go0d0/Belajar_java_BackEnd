@@ -6,9 +6,11 @@ import org.springframework.kafka.annotation.KafkaListener;
 @Service
 public class ProsesKafka{
   
-  
-  @KafkaListener (topics ="topiknya", groupId="belajar")
+
+
+  @KafkaListener(topics = "topiknya", groupId = "belajar")
   public void jalan(String data){
-    System.out.println("diterima:"+data);
+      System.out.println("diterima: " + data);
   }
+  
 }
