@@ -1,0 +1,13 @@
+HELP.md
+.gradle
+build/
+.vscode/
+bin/
+build/
+gradle/
+.gitattributes
+gradlew
+gradlew.bat
+settings.gradle
+src/test/
+HELP.md
