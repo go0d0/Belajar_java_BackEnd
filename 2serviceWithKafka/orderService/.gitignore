@@ -1,0 +1,15 @@
+HELP.md
+.gradle
+build/
+bin/
+out/
+*.class
+gradle/
+gradlew
+gradlew.bat
+HELP.md
+settings.gradle
+src/test/
+.vscode/
+*.log
+*.tmp
